@@ -1,6 +1,6 @@
 # Optimal Control of the Mars Ascent Vehicle via Convex Optimization
 
-This is a project that I completed between January and March 2018.
+This is a project that I completed between October and December 2017.
 
 The techniques used within this code were based on similar methods implemented in the PhD thesis by Xinfu Liu titled "Autonomous Trajectory Planning by Convex Optimization", Iowa State University, 2013.
 
