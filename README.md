@@ -1,5 +1,7 @@
 # Optimal Control of the Mars Ascent Vehicle via Convex Optimization
 
+This is a project that I completed as part of research done between January-March 2018.
+
 The techniques used within this code were based on similar methods implemented in the PhD thesis by Xinfu Liu titled "Autonomous Trajectory Planning by Convex Optimization", Iowa State University, 2013.
 
 The following algorithm implements a convex optimization approach to allow the Mars Ascent Vehicle (MAV) to autonomously plan and execute a fuel optimal ascent trajectory, from the surface of Mars to a stable circular orbit. The optimal guidance algorithm makes use of convex relaxations and sequential convex programming (also known as successive convexification) to solve a series of convex subproblems. This enables rapid progress towards an optimal solution that minimizes fuel use along the MAV's ascent trajectory.
