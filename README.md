@@ -23,5 +23,5 @@ Further techniques were also implemented from the following papers:
 * `post_ascent_propagation.m`: dynamic equations used to propagate trajectory forward in time after final circularization burn is complete
 * `drag.m`: atmospheric drag model of Martian atmosphere
 * `plots.m`: produces convergence results and ascent trajectory output
-* `control_subplots.m`: produces reference trajectory tracking from PID controller
+* `control_subplots.m`: produces reference trajectory tracking plots from PID controller
 * `control_animations.m`: produces reference trajectory tracking animations from PID controller
