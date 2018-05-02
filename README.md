@@ -18,7 +18,7 @@ Further techniques were also implemented from the following papers:
 3) A norms function to allow for computation of multiple vector norms
 
 ## File descriptions:
-* `mav_launch.m`: main algorithm used to implement and run autonomous guidance and control of the Mars Ascent Vehicle
+* `mav_launch.m`: main algorithm used to implement and run optimization-based autonomous guidance and control of the Mars Ascent Vehicle
 * `controller.m`: gain scheduling PID feedback controller used to follow guidance reference trajectory
 * `post_ascent_propagation.m`: dynamic equations used to propagate trajectory forward in time after final circularization burn is complete
 * `drag.m`: atmospheric drag model of Martian atmosphere
